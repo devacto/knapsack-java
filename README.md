@@ -1,2 +1,3 @@
 # knapsack
-Implementation of the knapsack problem
+
+Implementation of the knapsack problem in Java.
